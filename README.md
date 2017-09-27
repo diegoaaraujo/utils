@@ -1,2 +1,2 @@
 # utils
-A collection of utils
+A collection of utilities
