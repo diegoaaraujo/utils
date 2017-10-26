@@ -1,4 +1,6 @@
 #!/bin/bash
+#dependency: generate, then modify the template
+#aws iam change-password --generate-cli-skeleton > change-password.json
 
 
 accounts=(jason-account1 jason-account2 jason-account3 jason-account4)
